@@ -399,7 +399,7 @@
         "icon": "http://download.qnap.com/QPKG/images/QPKG/container/mongo_icon.png",
         "displayName": "MongoDB",
         "name": "mongo",
-        "version": "3.4",
+        "version": "3.6",
         "location": "https://hub.docker.com/_/mongo/",
         "type": "docker"
     },
